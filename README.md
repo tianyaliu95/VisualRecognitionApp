@@ -3,7 +3,7 @@
 <hr />
 <b>Project Demo:</b> <a href="https://youtu.be/BZoTnwjp4tQ">Click here for the full version with TalkBack sound</a>
 <br />
-![Demo (without TalkBack voice)](/ProjectDemoGIF.gif)
+![Demo (without TalkBack voice)](ProjectDemoGIF.gif)
 <br />
 Note: the app is running with Android Accessibility Mode turned on <a href="https://support.google.com/accessibility/android/answer/6006564?hl=en">(What is Android Accessibility Mode?)</a>
 <hr />
