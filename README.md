@@ -3,7 +3,8 @@
 <hr />
 <b>Project Demo:</b> <a href="https://youtu.be/BZoTnwjp4tQ">Click here for the full version with TalkBack sound</a>
 <br />
-![Demo (without TalkBack voice)](ProjectDemoGIF.gif)
+<br />
+![Demo (without TalkBack voice)](https://github.com/tianyaliu95/VisualRecognitionApp/blob/master/ProjectDemoGIF.gif)
 <br />
 Note: the app is running with Android Accessibility Mode turned on <a href="https://support.google.com/accessibility/android/answer/6006564?hl=en">(What is Android Accessibility Mode?)</a>
 <hr />
@@ -13,7 +14,7 @@ Note: the app is running with Android Accessibility Mode turned on <a href="http
 </ul>
 
 <b>Server Side: </b>
-<img src="https://github.com/tianyaliu95/VisualRecognitionApp/Server/Web Service Overview.JPG" alt="web service overview">
+<img src="https://github.com/tianyaliu95/VisualRecognitionApp/blob/master/Server/Web%20Service%20Overview.JPG" alt="web service overview">
 <ul>
 	<li></li>
 </ul>
