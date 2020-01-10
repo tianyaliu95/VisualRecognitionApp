@@ -8,7 +8,9 @@
 <br />
 Note: the app is running with Android Accessibility Mode turned on <a href="https://support.google.com/accessibility/android/answer/6006564?hl=en">(What is Android Accessibility Mode?)</a>
 <hr />
+<br />
 <b>Client Side: </b>
+
 <ul>
 	<li>User Interface:
 		<ul>
@@ -31,5 +33,5 @@ Note: the app is running with Android Accessibility Mode turned on <a href="http
 	<li>Deployed to Google Compute Engine (GCE) by building a Docker container with a Docker image and running the service on GCE Virtual Machine</li>
 	<li>Improvement: pushed Docker image to Docker Hub and deployed to GKE cluster for higher scalability</li>
 </ul>
-<div>Wev Service Overview</div>
+<div><b>Web Service Overview</b></div>
 <img src="https://github.com/tianyaliu95/VisualRecognitionApp/blob/master/Server/Web%20Service%20Overview.JPG" alt="web service overview">
