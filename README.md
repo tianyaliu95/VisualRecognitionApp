@@ -8,9 +8,8 @@
 <br />
 Note: the app is running with Android Accessibility Mode turned on <a href="https://support.google.com/accessibility/android/answer/6006564?hl=en">(What is Android Accessibility Mode?)</a>
 <hr />
-<br />
-<b>Client Side: </b>
-<br />
+
+## <b>Client Side: </b>
 <ul>
 	<li>User Interface:
 		<ul>
@@ -27,7 +26,7 @@ Note: the app is running with Android Accessibility Mode turned on <a href="http
 	</li>
 </ul>
 
-<b>Server Side: </b>
+## <b>Server Side: </b>
 <ul>
 	<li>Integrated Google Cloud Vision API with Java servlet built in HTTP server (Apache Tomcat)</li>
 	<li>Deployed to Google Compute Engine (GCE) by building a Docker container with a Docker image and running the service on GCE Virtual Machine</li>
