@@ -10,7 +10,7 @@ Note: the app is running with Android Accessibility Mode turned on <a href="http
 <hr />
 <br />
 <b>Client Side: </b>
-
+<br />
 <ul>
 	<li>User Interface:
 		<ul>
