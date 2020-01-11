@@ -1,5 +1,5 @@
 # VisualRecognitionApp  
-<strong>VizAssistant</strong> - An Android app that assists visually impaired users with daily reading tasks independently by converting images to voice messages using optical character recognition (OCR) and Android TalkBack.
+<strong>VizAssistant</strong> - An accessible Android app that assists the visually impaired in completing daily reading tasks independently by converting images to voice messages using optical character recognition (OCR) and Android TalkBack.
 <hr />
 <b>Project Demo:</b> <a href="https://youtu.be/BZoTnwjp4tQ">Click here for the full version with TalkBack sound!</a>
 <br />
